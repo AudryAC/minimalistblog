@@ -1,3 +1,5 @@
+comandos básicos dentro de bash
+
 cd (te lleva al home)
 cd /C (te lleva directamente a la ruta especificada)
 cd / (te lleva a la raiz)
@@ -7,3 +9,4 @@ pwd (nos muestra ña ruta en la que nos econtramos en ese momento)
 cat (para ver el contenido de un archivo)
 clear (limpiar la consola)
 ctrl + l (limpiar la consola)
+
