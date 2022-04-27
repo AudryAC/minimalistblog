@@ -1,4 +1,4 @@
-comandos básicos dentro de bash
+comandos básicos de linux dentro de bash
 
 cd (te lleva al home)
 cd /C (te lleva directamente a la ruta especificada)
